@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Yapay_Zeka</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OptimizasyonAlgoritmaları\OptimizasyonAlgoritmaları.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LiveCharts">
+      <HintPath>..\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf">
+      <HintPath>..\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

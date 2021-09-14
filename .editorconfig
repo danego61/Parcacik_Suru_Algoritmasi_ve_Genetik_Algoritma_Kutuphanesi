@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0022: Metotlar için blok gövdesi kullan
+csharp_style_expression_bodied_methods = false
+
+# IDE0021: Oluşturucular için blok gövdesi kullan
+csharp_style_expression_bodied_constructors = true

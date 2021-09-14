@@ -1,0 +1,6 @@
+C:\Users\yusuf\source\repos\Yapay Zeka\OptimizasyonAlgoritmaları\bin\Debug\OptimizasyonAlgoritmaları.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\OptimizasyonAlgoritmaları\bin\Debug\OptimizasyonAlgoritmaları.pdb
+C:\Users\yusuf\source\repos\Yapay Zeka\OptimizasyonAlgoritmaları\obj\Debug\OptimizasyonAlgoritmaları.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\OptimizasyonAlgoritmaları\obj\Debug\OptimizasyonAlgoritmaları.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\OptimizasyonAlgoritmaları\obj\Debug\OptimizasyonAlgoritmaları.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\OptimizasyonAlgoritmaları\obj\Debug\OptimizasyonAlgoritmaları.pdb

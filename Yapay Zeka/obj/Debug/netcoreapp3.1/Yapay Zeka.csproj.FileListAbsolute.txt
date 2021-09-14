@@ -1,0 +1,25 @@
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\Yapay Zeka.exe
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\Yapay Zeka.deps.json
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\Yapay Zeka.runtimeconfig.json
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\Yapay Zeka.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\Yapay Zeka.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\Yapay Zeka.pdb
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka_MarkupCompile.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka_MarkupCompile.lref
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.g.resources
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.pdb
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\OptimizasyonAlgoritmaları.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\OptimizasyonAlgoritmaları.pdb
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.csproj.CopyComplete
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\yusuf\source\repos\Yapay Zeka\Yapay Zeka\obj\Debug\netcoreapp3.1\Yapay Zeka.GeneratedMSBuildEditorConfig.editorconfig
